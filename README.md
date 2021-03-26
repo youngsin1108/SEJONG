@@ -13,26 +13,26 @@
 세종시 주택 시장 특성을 쉽고 명확히 보이도록 시각화 모델 제시
 
 ### 목차
-1. 분석 개요 및 목적
+*1. 분석 개요 및 목적*
 
-2. Data Preprocessing
-  - 활용데이터 소개
-  - 데이터 시각화 기법
-  - 데이터 전처리
+*2. Data Preprocessing*
+    - 활용데이터 소개
+    - 데이터 시각화 기법
+    - 데이터 전처리
 
 3. Visualization
-  - 시기별 이슈 확인
-  - 주택 및 주거 거래 관련
-  - 인구 관련
+    - 시기별 이슈 확인
+    - 주택 및 주거 거래 관련
+    - 인구 관련
 
 4. Modeling
-  - 지수 생성
-  - LDA
-  - Linear Regression
-  - Oaxaca Decomposition
+    - 지수 생성
+    - LDA
+    - Linear Regression
+    - Oaxaca Decomposition
 
 5. 결과 요약 및 제언
-  - 카테고리별 결과 요약
-  - 정책 제언
+    - 카테고리별 결과 요약
+    - 정책 제언
 
 6. Appendix
